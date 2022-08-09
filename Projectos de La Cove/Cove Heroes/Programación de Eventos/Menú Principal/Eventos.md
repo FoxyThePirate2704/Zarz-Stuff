@@ -1,3 +1,5 @@
+# Info
+Este es el código del menú principal entero de Cove Heroes, para leerlo con más comodidad, selecciona arriba para verlo en "Raw" u "Original"
 # Pre-Carga
 ◆Comando de plugin：mv3d disable
 ◆Mensaje：Nada, Fondo oscuro, Central
