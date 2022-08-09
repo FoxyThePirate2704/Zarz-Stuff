@@ -8,3 +8,5 @@ Literalmente puedes ver cualquier proyecto que estemos haciendo sin descargarlo 
 Una propuesta es un mensajote grande que puedes dejar dando sugerencias, (Preferiblemente uno bien grande, para no hacer propuestas en vano). En la Web, pulsa [Issues] y dale a Crear, en la aplicación de celular, pulsa [Propuestas] y publica lo que tienes en mente. Esto es visibile para todo el mundo
 # Puedo subir archivos? owo
 no.
+# ¿Porqué hay carpetas que no tienen que ver con nuestros proyectos?
+Bueno en realidad este es mi GitHub así que aquí hay cosas mías subidas también x'd
