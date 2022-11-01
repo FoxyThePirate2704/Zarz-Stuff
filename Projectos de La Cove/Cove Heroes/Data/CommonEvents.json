@@ -1,7 +1,0 @@
-[
-null,
-{"id":1,"list":[{"code":111,"indent":0,"parameters":[0,4,0]},{"code":108,"indent":1,"parameters":["Permitir multijugador"]},{"code":0,"indent":1,"parameters":[]},{"code":411,"indent":0,"parameters":[]},{"code":0,"indent":1,"parameters":[]},{"code":412,"indent":0,"parameters":[]},{"code":0,"indent":0,"parameters":[]}],"name":"Servidor LAN iniciado","switchId":1,"trigger":0},
-{"id":2,"list":[{"code":356,"indent":0,"parameters":["AnimationCurve CubicInOut"]},{"code":0,"indent":0,"parameters":[]}],"name":"Procesar curvas de animática","switchId":7,"trigger":2},
-{"id":3,"list":[{"code":121,"indent":0,"parameters":[7,7,0]},{"code":0,"indent":0,"parameters":[]}],"name":"Partida Cargada","switchId":1,"trigger":0},
-{"id":4,"list":[{"code":0,"indent":0,"parameters":[]}],"name":"","switchId":1,"trigger":0}
-]
